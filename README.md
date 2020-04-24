@@ -1,6 +1,6 @@
-# Webpack-starter
+# App Lista de Tareas
 
-Este es la configuracion inicial o proyecto inicial para crear aplicaciones con Webpack.
+Este es el código de una aplicacion de una lista de tareas con webpack
 
 ### Notas:
 
